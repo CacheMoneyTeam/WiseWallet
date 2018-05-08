@@ -1,1 +1,1 @@
-# WiseWallet-
+# WiseWallet
